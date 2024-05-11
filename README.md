@@ -13,10 +13,17 @@ Step 3: Steps to install required modules
 
         npm install react-bootstrap @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons 
 
+
         
         npm install image-conversion bootstrap
 
 Step 4: Inside src folder create components folder in that add files like Compressor.js,,Compressor.css
+
+Step 5: Change the content in App.js file and indx.html file
+
+Step 6: TO run the application
+
+      npm start
 
 
        
