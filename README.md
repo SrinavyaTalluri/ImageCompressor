@@ -8,4 +8,10 @@ Step 1: Create a React App
 Step 2: Navigate to the newly created project folder by executing the below command.
 
         cd image-compressor
+
+Step 3: Steps to install required modules
+
+        npm install react-bootstrap @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons 
+        
+        npm install image-conversion bootstrap
        
