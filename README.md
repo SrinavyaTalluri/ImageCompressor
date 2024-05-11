@@ -3,11 +3,11 @@ This project is based on the React where users can upload image files and adjust
 
 Step 1: Create a React App
 
-       npx create-react-app <<projectname>>
+       npx create-react-app <<project-name>>
 
 Step 2: Navigate to the newly created project folder by executing the below command.
 
-        cd image-compressor
+        cd <<project-name>>
 
 Step 3: Steps to install required modules
 
@@ -15,7 +15,7 @@ Step 3: Steps to install required modules
 
 
         
-        npm install image-conversion bootstrap
+        npm install <<project-name>> bootstrap
 
 Step 4: Inside src folder create components folder in that add files like Compressor.js,,Compressor.css
 
