@@ -23,7 +23,7 @@ Step 5: Change the content in App.js file and indx.html file
 
 Step 6: TO run the application
 
-      npm start
+       npm start
 
 
        
