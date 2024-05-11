@@ -21,9 +21,9 @@ Step 4: Inside src folder create components folder in that add files like Compre
 
 Step 5: Change the content in App.js file and indx.html file
 
-Step 6: TO run the application
+Step 6: To run the application
 
-       npm start
+        npm start
 
 
        
